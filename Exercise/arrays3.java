@@ -14,7 +14,7 @@ public static void largestandsmallest(int[] numbers) {
 			}
 			
 			}
-		System.out.println("smallest tnumber is "+min);
+		System.out.println("smallest number is "+min);
 		System.out.println("largest number is "+max);
 		
 	}
