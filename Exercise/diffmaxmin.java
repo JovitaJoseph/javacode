@@ -17,8 +17,8 @@ public class diffmaxmin {
 				}
 				
 				}
-			System.out.println("Min value is "+min);
-			System.out.println("Max value is "+max);
+			System.out.println("Min value is1 "+min);
+			System.out.println("Max value is1 "+max);
 			
 		
 		
